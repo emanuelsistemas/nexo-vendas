@@ -1,0 +1,29 @@
+# Dependências
+node_modules
+npm-debug.log
+
+# Arquivos de desenvolvimento
+.git
+.gitignore
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arquivos de build
+dist
+build
+coverage
+
+# Outros
+README.md
+*.log
+.DS_Store
